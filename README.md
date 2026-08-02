@@ -26,8 +26,8 @@ A collection of C++ programs covering basic concepts, problem-solving, algorithm
 
 ```text
 📁 Cpp-Programs
-├── HelloWorld.cpp
-├── Calculator.cpp
+├── Third.cpp
+├── Triangle.cpp
 ├── Fibonacci.cpp
 ├── PrimeNumber.cpp
 ├── BubbleSort.cpp
