@@ -82,7 +82,7 @@ C++ CHEAT SHEET
 WHAT IS C++?
 ------------------------------------
 • General-purpose programming language.
-• Created by Bjarne Stroustrup (1985).
+• Created by Bjarne Stroustrup (1985),
 • Extension of the C language.
 • Supports Object-Oriented Programming (OOP).
 • Compiled language.
