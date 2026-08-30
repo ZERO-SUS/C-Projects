@@ -15,8 +15,12 @@ int main(){
 			index =j;
 		}
 	}
-	std::cout<<user<<" is in the Index :"<<index;
-
+	if(index!=0){
+	std::cout<<user<<" is in the Index :"<<index<<'\n';
+	}
+	else{
+		std::cout<<user<<" is Not Found In the Array "<<'\n';
+	}
 	return 0;
 }
 
